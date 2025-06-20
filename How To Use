@@ -1,0 +1,6 @@
+# YOU MUST HAVE PYTHON AND PIP FOR THIS TO WORK IF YOU DON'T JUST GO TO THIS WEBSITE AND GET BOTH:https://www.python.org/downloads/
+first you must download the file then open it in a text editor for example VScode then oce the file is open in your text editor you have to scroll down to where it says "Your Discord Webhook Goes Here" 
+then if you don't already have it you need a empty discord server with nobody in it or if you want other people to acsess your data then you can ig but then go to the text channel you want the bot to send the location data to then
+go to the settings of that channel then go to intagrations then webhooks then from there you create a new webhook and name it wtv you want and then you have to copy the webhook url then go back to the scipt in the text editor and 
+delete everything in the " " of "Your Discord Webhook Goes Here" and paste you webhook in the " " and then you can save the file
+then use this YT video to build it into ether and app or .exe file HAVE FUN:https://youtu.be/bEBMo52OCis?si=1CuBAps_6_33KTTP
